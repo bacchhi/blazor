@@ -1,0 +1,27 @@
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\appsettings.Development.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\appsettings.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.staticwebassets.runtime.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.exe
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.deps.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.runtimeconfig.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.dll
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\bin\Debug\net6.0\TodoList - ServerApp -  fromScratch.pdb
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.csproj.AssemblyReference.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.AssemblyInfoInputs.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.AssemblyInfo.cs
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.csproj.CoreCompileInputs.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.MvcApplicationPartsAssemblyInfo.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.RazorAssemblyInfo.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.RazorAssemblyInfo.cs
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\staticwebassets.build.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\staticwebassets.development.json
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\scopedcss\bundle\TodoList - ServerApp -  fromScratch.styles.css
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\scopedcss\projectbundle\TodoList - ServerApp -  fromScratch.bundle.scp.css
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.dll
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\refint\TodoList - ServerApp -  fromScratch.dll
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.pdb
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\TodoList - ServerApp -  fromScratch.genruntimeconfig.cache
+D:\_GIT\Blazor\blazor\TodoList - ServerApp - fromScratch\TodoList - ServerApp -  fromScratch\TodoList - ServerApp -  fromScratch\obj\Debug\net6.0\ref\TodoList - ServerApp -  fromScratch.dll
